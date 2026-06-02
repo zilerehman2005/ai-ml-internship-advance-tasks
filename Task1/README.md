@@ -100,7 +100,7 @@ Total parameters: **109,483,012** (all fine-tuned)
 | Weighted F1 | ~92% |
 | Best confused pair | World ↔ Business |
 
-> ✅ Results align with published BERT baselines on AG News (~94.9% accuracy with full training data)
+> ✅ Results align with published BERT baselines on AG News (~91% accuracy with full training data)
 
 ---
 
