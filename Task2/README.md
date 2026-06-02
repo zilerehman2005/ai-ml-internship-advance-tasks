@@ -14,10 +14,8 @@ Build a **reusable, production-ready machine learning pipeline** to predict whet
 
 ```
 telco-churn-ml-pipeline/
-│
-├── telco_churn_pipeline.py          # Standalone Python script
 ├── telco_churn_pipeline.ipynb       # Jupyter Notebook (with outputs)
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset
+├── Telco-Customer-Churn.csv         # Dataset
 ├── lr_churn_pipeline.joblib         # Exported Logistic Regression pipeline
 ├── rf_churn_pipeline.joblib         # Exported Random Forest pipeline
 └── README.md
