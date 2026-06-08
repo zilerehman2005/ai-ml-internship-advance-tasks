@@ -102,7 +102,7 @@ Auto_Tagging_Support_Tickets/
 ├── Auto_Tagging_Support_Tickets.ipynb   # Main notebook
 ├── README.md                            # This file
 ├── requirements.txt                     # Python dependencies
-├── dataset.csv                          # Dataset (add manually)
+├── customer_support_tickets.csv                        
 └── outputs/
     ├── category_distribution.png
     ├── ticket_length_distribution.png
